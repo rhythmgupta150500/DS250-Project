@@ -14,4 +14,4 @@ https://drive.google.com/file/d/1bFYxb93L6XC9aT3S-XIxVOjboOzvjfVj/view?usp=shari
 
 Link to github repo:
 
-https://github.com/rhythmgupta150500/DS250-Project
+https://github.com/rhythmgupta150500/DS250-Project/tree/master/DS250-Project
